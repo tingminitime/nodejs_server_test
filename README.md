@@ -1,4 +1,4 @@
-# node-test
+# Node.js simple server
 
 ## Table of Contents
 
