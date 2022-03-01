@@ -5,7 +5,6 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
 
 ## About <a name = "about"></a>
 
@@ -20,7 +19,10 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 ```
-Give examples
+npm i nodemon -g
+```
+```
+npm install
 ```
 
 ### Installing
@@ -30,13 +32,7 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 ```
-Give the example
-```
-
-And repeat
-
-```
-until finished
+$ nodemon app
 ```
 
 End with an example of getting some data out of the system or using it for a little demo.
