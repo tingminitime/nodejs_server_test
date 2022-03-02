@@ -1,4 +1,4 @@
-const { headers } = require('./headers')
+const { headers } = require('./config')
 
 module.exports = {
   errorHandler(res, message) {
